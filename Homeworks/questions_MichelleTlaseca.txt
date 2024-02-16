@@ -1,0 +1,18 @@
+cd PythonDeCal to get into my repo, ls after to see the folders and pages inside, mkdir (newfoldername) to make a new file within the repo
+2)Yes, a dog, she's a mutt
+3)Cry,and then restart my terminal and get myself organized
+4)my memory is horrible and I purposely attempt to not remember... sorry
+5)A line of commands and directories to make a product
+1. What 
+are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your 
+computer terminal in?
+
+2. Do you have pets? What kind?
+
+3. If you run across an error, what would your first course of action be?
+
+4. Funniest thing that happened to you in high school.
+
+5. What is a python script? (Keep it simple)
+
+
