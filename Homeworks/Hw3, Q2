@@ -1,0 +1,16 @@
+list= [240, 70, 2, 10, 120]
+
+def findmax(list) :
+    a = list
+    max = a[0]
+    min = a[0]
+
+    for item in list :
+        if item > max :
+            max=item
+
+        if item < min :
+            min = item
+
+    return (min, max)
+print(findmax(list))
